@@ -180,3 +180,7 @@ old
 
 KLUE-RoBERTa/logs
 KLUE-RoBERTa/results
+
+# Large Files
+######################
+*.pt

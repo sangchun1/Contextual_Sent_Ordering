@@ -177,6 +177,7 @@ cython_debug/
 BERT
 data
 old
+T5/results
 
 KLUE-RoBERTa/logs
 KLUE-RoBERTa/results

@@ -181,6 +181,10 @@ T5/results
 
 KLUE-RoBERTa/logs
 KLUE-RoBERTa/results
+KLUE-RoBERTa/global_results
+
+KoElectra/koelectra_results
+KoElectra/koelectra_logs
 
 # Large Files
 ######################

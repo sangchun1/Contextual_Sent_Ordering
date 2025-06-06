@@ -12,7 +12,7 @@
   - `KLUE-RoBERTa`
   - `KLUE-BERT`
   - `KoElectra`
-  - `T5 (KE-T5)`
+  - `T5`
 
 ## 프로젝트 진행 계획
 
@@ -68,7 +68,7 @@
 ### 2. Seq2Seq Prediction (T5)
 - 입력: `[CLS] 문장 0 [SEP] 문장 1 [SEP] 문장 2 [SEP] 문장 3`
 - 출력: `"2 0 1 3"` 형태의 순서 문자열
-- 사전학습된 T5 모델(`KE-T5`) 기반 fine-tuning
+- 사전학습된 T5 모델 기반 fine-tuning
 
 ## 평가 방법
 

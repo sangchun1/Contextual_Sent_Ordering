@@ -14,7 +14,7 @@
   - `KLUE-BERT` (Pairwise) - **66.53% 정확도**
   - `KoElectra` (Pairwise) - **89.27% 정확도** (튜닝 후 **90.19%**)
   - `T5` (Seq2Seq) - **76.63% 정확도**
-  - `Global RoBERTa` (Global) - **84.27% 정확도** (DACON 최고 성능)
+  - `Global RoBERTa` (Global) - **100% 정확도** (DACON 최고 성능)
 
 ## 프로젝트 구조
 

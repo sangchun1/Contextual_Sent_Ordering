@@ -174,9 +174,7 @@ cython_debug/
 .pypirc
 
 # additional
-BERT
 data
-old
 T5/results
 
 KLUE-RoBERTa/logs

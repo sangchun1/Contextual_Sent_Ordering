@@ -1,6 +1,6 @@
 # 문맥 기반 문장 순서 예측 프로젝트
 
-이 프로젝트는 [Dacon 문맥 기반 문장 순서 예측 AI 경진대회](https://dacon.io/competitions/official/236489/overview/description)에 참가하여, 주어진 문서의 문장들을 올바른 순서로 배열하는 딥러닝 모델을 개발하는 것을 목표로 합니다. 
+이 프로젝트는 [DACON 문맥 기반 문장 순서 예측 AI 경진대회](https://dacon.io/competitions/official/236489/overview/description)에 참가하여, 주어진 문서의 문장들을 올바른 순서로 배열하는 딥러닝 모델을 개발하는 것을 목표로 합니다. 
 
 ---
 

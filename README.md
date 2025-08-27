@@ -22,28 +22,28 @@
 ## 📂 프로젝트 구조
 
 ```
-📂 data/ # 원본 데이터 및 제출 파일
-├── train.csv # 학습용 데이터 (7,350개 샘플)
-├── test.csv # 테스트용 데이터 (1,780개 샘플)
-├── sample_submission.csv # 제출 샘플 파일
-└── submission.csv # 최종 제출 파일
+📂 data/                 # 원본 데이터 및 제출 파일
+├── train.csv              # 학습용 데이터 (7,350개 샘플)
+├── test.csv               # 테스트용 데이터 (1,780개 샘플)
+├── sample_submission.csv  # 제출 샘플 파일
+└── submission.csv         # 최종 제출 파일
 
-📂 preprocess/ # 전처리 코드
-├── preprocess.ipynb # 전처리 노트북
-└── preprocessing.py # 전처리 모듈 (Pairwise/Sequence/Global)
+📂 preprocess/           # 전처리 코드
+├── preprocess.ipynb       # 전처리 노트북
+└── preprocessing.py       # 전처리 모듈 (Pairwise/Sequence/Global)
 
-📂 model test/ # 각 모델별 실험 코드
+📂 model test/           # 각 모델별 실험 코드
 ├── KLUE-BERT/
 ├── KLUE-RoBERTa/
 ├── KoElectra/
 └── T5/
 
-📂 model results/ # 최종 결과 및 평가지표 노트북
-├── global/ # Global 방식 결과
-├── pairwise/ # Pairwise 방식 결과
-└── sequence/ # Sequence 방식 결과
+📂 model results/         # 최종 결과 및 평가지표 노트북
+├── global/                 # Global 방식 결과
+├── pairwise/               # Pairwise 방식 결과
+└── sequence/               # Sequence 방식 결과
 
-📂 presentation/ # 발표 자료
+📂 presentation/          # 발표 자료
 ├── 최종 보고서.docx
 └── 최종 발표자료.pdf
 ```
